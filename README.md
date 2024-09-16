@@ -1,4 +1,4 @@
-# Gerson-poo
+# Gerson
 ## LISTAS PL 3°ADS <h4>Alunos: Juliano Vitor Prado e Ian Porto Dias da Silva</h4>
 
 <h2>CADA UMA ORGANIZADA EM SUAS RESPECTIVAS BRANCH</h2>
